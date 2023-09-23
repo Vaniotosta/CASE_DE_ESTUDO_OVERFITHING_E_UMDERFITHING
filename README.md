@@ -1,0 +1,2 @@
+# CASE_DE_ESTUDO_OVERFITHING_E_UMDERFITHING
+Neste case de estudo, o objetivo é exemplificar de forma simples e clara através de gráficos e métricas de valiação de de modelos preditivos de regressão e classificação, como ocorre os problemas de overfithing e umderfithing. Este case não se configura um projeto, mas té de grande valia principalmente para àqueles que têm dúvidas de como ocorrem tais situações, e como avaliarseus modelos.
